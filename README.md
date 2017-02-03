@@ -1,0 +1,3 @@
+# Serializare
+
+Exemplu serializare
